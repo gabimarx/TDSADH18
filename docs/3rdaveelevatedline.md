@@ -16,7 +16,7 @@ The Third Avenue El was the last elevated line to operate in Manhattan. Service 
 **Track Maps**
 ![harlemmap](../images/harlem3rdave.png)
 
-![manhattanmap](../images/harlem3rdave.png)
+![manhattanmap](../images/3rdavemanhattan.png)
 
 The New York World, August 27, 1878
 The east side branch of the New York Elevated Railroad
