@@ -112,5 +112,5 @@ At George P. Lies's cigar store, No. 59 Third avenue: "No, it doesn’t make as 
 
 street-car.”
 
-![extras](../images/images/traincars.png)
+![traincars](../images/traincars.png)
 
