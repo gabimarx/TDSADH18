@@ -1,6 +1,6 @@
 **The 3rd Avenue Elevated**
 
-![Canalstreet](../images/canalstreettrain.jpg)
+![Canalstreet](../images/canalstreettrain.png)
 
 MUDC work train on the 3rd avenue El at Canal Street. Frank Pfuhler. May 1955
 
@@ -14,9 +14,9 @@ Later construction under the Dual Contracts triple-tracked the main line of the 
 The Third Avenue El was the last elevated line to operate in Manhattan. Service to South Ferry ended in 1950, and to City Hall in 1953. The main line of the 3rd Avenue elevated in Manhattan had service from Chatham Square north until 1955. From 1955 to 1973 Bronx service operated between 149th St and Gun Hill Road.
 
 **Track Maps**
-![harlemmap](../images/harlem3rdave.jpg)
+![harlemmap](../images/harlem3rdave.png)
 
-![manhattanmap](../images/3rdavemanhattan.jpg)
+![manhattanmap](../images/harlem3rdave.png)
 
 The New York World, August 27, 1878
 The east side branch of the New York Elevated Railroad
@@ -112,5 +112,5 @@ At George P. Lies's cigar store, No. 59 Third avenue: "No, it doesn’t make as 
 
 street-car.”
 
-![extras](../images/images/traincars.jpg)
+![extras](../images/images/traincars.png)
 
